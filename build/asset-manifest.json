@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9f8fda7.css",
+    "main.js": "/static/js/main.f4f6f3be.js",
+    "static/media/profile.svg": "/static/media/profile.8036d2a5e2fe6bbc4015def28a57583e.svg",
+    "static/media/login.svg": "/static/media/login.ac3bb1381b42989f59ddecd544e0f506.svg",
+    "static/media/signup.svg": "/static/media/signup.c052777033ac1d587b24f7d62fa24504.svg",
+    "static/media/spinner.svg": "/static/media/spinner.5151bdde54f567c3bcb1d8b8c5182955.svg",
+    "static/media/shopping-order.svg": "/static/media/shopping-order.eda0114929e99a678abdab162a890144.svg",
+    "static/media/bank-credit.svg": "/static/media/bank-credit.fbadb20087bb6ead0efb4897f09af897.svg",
+    "static/media/discount.svg": "/static/media/discount.a267e499f0c9b25068ee347bf47d30ae.svg",
+    "static/media/wallet.svg": "/static/media/wallet.3bb5ee23768de6ef1325190adcb65a30.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.8f3ee2e4bce13f452203c6f5c705d9d4.svg",
+    "static/media/userImage.svg": "/static/media/userImage.3d34eed26df53fb0ae9b8c9ef175f406.svg",
+    "static/media/facebook.svg": "/static/media/facebook.31ef16ddef4cbb4df5ced8dd63c26667.svg",
+    "index.html": "/index.html",
+    "static/media/google.svg": "/static/media/google.396cfc9801f0270233282035f929180a.svg",
+    "main.f9f8fda7.css.map": "/static/css/main.f9f8fda7.css.map",
+    "main.f4f6f3be.js.map": "/static/js/main.f4f6f3be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9f8fda7.css",
+    "static/js/main.f4f6f3be.js"
+  ]
+}
