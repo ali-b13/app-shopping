@@ -1,0 +1,57 @@
+:root{
+  --footer-main:rgb(8, 72, 114);
+  --footer-secondary:rgb(49, 126, 177);
+  --light-color:rgb(99, 149, 182);
+}
+.container-footer{
+  
+}
+.things-we-offer{
+ background-color: var(--footer-main);
+ padding: 2rem;
+ color: white;
+}
+.btn-to-top{
+  background-color: var(--footer-secondary) !important;
+  color: white !important;
+  border: none !important;
+  border-radius: 0!important;
+  width: 100%;
+}
+.parent-ul {
+  display: flex;
+  font-size: large;
+  justify-content: center;
+ 
+}
+.parent-ul ul li {
+  list-style: none;
+  font-size: smaller;
+  margin: 1rem;
+}
+.parent-ul ul li:hover{
+  cursor: pointer;
+  color: var(--footer-secondary);
+}
+
+.copy-right{
+  background-color: var(--light-color);
+  color: var(--footer-main);
+}
+.copy-right .developer{
+  padding-bottom: 1rem;
+}
+
+
+
+
+@media (max-width:600px) {
+  .btn-to-top{
+    padding: 0.1rem !important;
+    font-size: smaller !important;
+  }
+  .parent-ul{
+    font-size: 0.6rem;
+    
+  }
+}

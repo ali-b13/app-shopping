@@ -1,0 +1,37 @@
+
+.s-item{
+ height: 30rem;
+ max-width: 50rem ;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin: 1rem auto;
+ border: 0.1rem solid rgb(209, 199, 199);
+ padding: 1rem;
+ box-shadow: 0px 0px 20px 16px rgba(17, 17, 26, 0.18);
+}
+.s-item-img{
+   height: 20rem;
+}
+
+.s-item-details .s-item-title{
+  margin: 1rem;
+  font-weight: 700;
+  font-size: larger;
+}
+.s-item-price {
+  color: green;
+}
+.s-item-details .s-item-description{
+  margin: 1rem;
+  font-weight: 200;
+  font-size: medium;
+}
+.s-rating{
+  margin: 1rem;
+  color: cadetblue
+}
+.s-btn-buy{
+  margin-top: 2rem !important;
+  width: 15rem !important;
+}

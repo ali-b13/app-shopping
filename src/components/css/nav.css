@@ -1,0 +1,14 @@
+@media (max-width:600px) {
+  .item {
+    font-size: 0.6rem !important;
+   }
+
+   .select-items{
+    font-size: 0.7rem !important;
+   }
+  
+}
+.linker{
+  text-decoration: none;
+  color: black;
+}

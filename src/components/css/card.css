@@ -1,0 +1,51 @@
+.cards-main{
+
+  background-color: aliceblue;
+  display: grid;
+  grid-template-columns: 1fr 1fr  ;
+}
+.card{
+  height: 17rem;
+  cursor: pointer;
+  margin: 1rem;
+  padding: 1rem;
+  background-color: white;
+  border: 0.4px solid rgb(255, 255, 255);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+.card-title{
+  font-size: smaller;
+  margin-bottom: 1rem;
+}
+.card-img{
+  height: 8rem;
+  margin-bottom:1rem ;
+}
+.card-price {
+  color: green;
+  margin-bottom: 0.5rem;
+}
+.link-add-to-cart{
+  text-decoration: none;
+}
+@media (min-width:900px) {
+  .cards-main{
+    grid-template-columns: 1fr 1fr 1fr 1fr  ;
+    
+  }
+  
+}
+
+@media (max-width:600px) {
+  .cards-main{
+    grid-template-columns: 1fr ;
+  }
+  .card{
+    height: 15rem;
+  }
+  .card-img{
+    height: 6rem;
+  }
+  
+}
